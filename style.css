@@ -1,0 +1,62 @@
+#GBan div,ul,li {
+	margin: 0px;
+	padding: 0px;
+}
+
+#att {
+	position: absolute;
+	z-index: 9020;
+}
+
+#att ul {
+	height: 18px;
+	list-style: none;
+	width: 125px;
+}
+
+#att ul li {
+	float: left;
+}
+
+#abgf {
+	background-color: #333333;
+	height: 18px;
+	width: 107px;
+}
+
+#abgt {
+	height: 18px;
+	position: relative;
+	width: 18px;
+}
+
+#abgc {
+	-moz-opacity: 0.80;
+	KhtmlOpacity: 0.80;
+	opacity: 0.80;
+	height: 18px;
+	left: 442px;
+	overflow: hidden;
+	position: absolute;
+	top: 42px;
+	width: 125px;
+	z-index: 9010;
+}
+
+#abgi {
+	left: 12px;
+	overflow: hidden;
+	position: absolute;
+	width: 120px;
+	z-index: 9030;
+}
+
+#abgb {
+	float: left;
+	margin: 2px 1px 1px 1px;
+}
+
+#abgs {
+	margin: 1px 1px 1px 1px;
+	overflow: hidden;
+}

@@ -1,0 +1,962 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rentabiliweb Ads\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-15 23:45+0100\n"
+"PO-Revision-Date: 2011-06-15 23:48+0100\n"
+"Last-Translator: Maxence <pirmax@free.fr>\n"
+"Language-Team: Maxence Rose <pirmax@free.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Program Files (x86)\\EasyPHP-5.3.5.0\\www\\labo_wordpress\\wp-content\\plugins\\rentabiliweb-ads\n"
+"Plural-Forms: nplurals=2;plural=n>2\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: England\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\Program Files (x86)\\EasyPHP-5.3.5.0\\www\\labo_wordpress\\wp-content\\plugins\\rentabiliweb-ads\n"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:34
+msgid "Pour ajouter votre banni&egrave;re sur ce blog, vous devez &ecirc;tre connect&eacute;."
+msgstr "To add your banner on this blog, you must login."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:34
+msgid "Inscrivez-vous"
+msgstr "Sign up"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:34
+msgid "si vous n'avez pas encore de compte"
+msgstr "if you do not have an account"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:216
+msgid "R&eacute;glages"
+msgstr "Settings"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:257
+msgid "Affichage des espaces de ventes Rentabiliweb Ads. Rendez-vous dans \"Rentab. Ads / Espaces de ventes\" pour ajouter des espaces de ventes."
+msgstr "Sales display spaces Rentabiliweb Ads. Go to add spaces \"Rentab. Ads / Sales areas\" sales."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:260
+msgid "Espace Rentabiliweb Ads"
+msgstr "Space Rentabiliweb Ads"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:269
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:303
+msgid "Sponsor de mon blog"
+msgstr "Sponsor my blog"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:270
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:304
+msgid "Votre banni&egrave;re ici ?"
+msgstr "Your banner here?"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:315
+msgid "Titre du widget"
+msgstr "Widget title"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:319
+msgid "Texte (Votre banni&egrave;re ici)"
+msgstr "Text (Your banner here)"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:323
+msgid "Style du widget"
+msgstr "Style widget"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:327
+msgid "Format de votre espace"
+msgstr "Format your space"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:343
+msgid "Cliquez-ici"
+msgstr "Click here"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:343
+msgid "pour ajouter un nouvel espace publicitaire sur votre blog"
+msgstr "to add a new advertising space on your blog"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:355
+msgid "Rentab. Ads"
+msgstr "Rentab. Ads"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:356
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:41
+msgid "Configuration de Rentabiliweb Ads"
+msgstr "Configuration Rentabiliweb Ads"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:356
+msgid "Configuration"
+msgstr "Configuration"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:357
+msgid "Espaces sponsoris&eacute;s de votre blog"
+msgstr "Showcasing your blog sponsored"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:357
+msgid "Espaces de ventes"
+msgstr "Sales areas"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:358
+msgid "Acheter un espace publicitaire"
+msgstr "Buy advertising space"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:358
+msgid "Acheter un espace"
+msgstr "Buy space"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:359
+msgid "Campagnes achet&eacute;s sur les espaces de ventes"
+msgstr "Campaigns purchased on the areas of sales"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads.php:359
+msgid "Campagnes"
+msgstr "Campaigns"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:18
+msgid "Cette campagne n'existe pas sur ce blog."
+msgstr "This campaign doesn't exist"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:26
+msgid "Vous allez payer la campagne"
+msgstr "You will pay the campaign"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:26
+msgid "et afficher votre banni&egrave;re pour une dur&eacute;e de"
+msgstr "and display your banner for a period of"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:26
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:91
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:75
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:182
+msgid "jours"
+msgstr "days"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:28
+msgid "Une fois que la transaction sera effectu&eacute;e, vous pourrez configurer votre banni&egrave;re et le lien de votre site/blog."
+msgstr "Once the transaction is complete, you can set up your banner and link to your site/blog."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:29
+msgid "Choisir un autre espace de ventes"
+msgstr "Choose another areas space"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:35
+msgid "Augmentez le trafic de votre site/blog en utilisant un espace de ventes sur ce blog. Les banni&egrave;res s'afficheront sur le blog et les visiteurs pourront cliquer dessus."
+msgstr "Increase traffic to your site / blog using a sales space on this blog. The banners will be displayed on the blog and visitors can click on it."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:35
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:178
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:71
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:130
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:135
+msgid "Acc&egrave;s &agrave; votre/vos campagne(s)"
+msgstr "Access to advertise your campaigns"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:36
+msgid "Liste des espaces publicitaire sur ce blog"
+msgstr "List of advertising space on this blog"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:44
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:55
+msgid "Acheter"
+msgstr "Buy"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:45
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:56
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:148
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:159
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:281
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:293
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:134
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:146
+msgid "Titre"
+msgstr "Title"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:46
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:57
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:135
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:147
+msgid "Tarif"
+msgstr "Tariff"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:47
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:58
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:136
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:148
+msgid "Nombre de campagne"
+msgstr "Number campaigns"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:48
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:59
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:149
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:160
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:282
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:294
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:138
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:150
+msgid "Dimension"
+msgstr "Size"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:49
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:60
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:139
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:151
+msgid "Dur&eacute;e"
+msgstr "Duration"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:75
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:166
+msgid "Aucun espace trouv&eacute;."
+msgstr "No space found."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:89
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:180
+msgid "campagnes"
+msgstr "campaigns"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:89
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:180
+msgid "campagne"
+msgstr "campaign"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:157
+msgid "Patientez..."
+msgstr "Wait..."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:167
+msgid "Voici le r&eacute;sum&eacute; de votre espace publicitaire"
+msgstr "A summary of your ad space"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:168
+msgid ""
+"Bonjour,\n"
+"\n"
+"Vous venez d'acheter un espace publicitaire sur"
+msgstr ""
+"Hello,\n"
+"\n"
+"You just bought advertising space on"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:168
+msgid "Voici un rappel de votre espace publicitaire"
+msgstr "Here's a reminder of your ad space"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:168
+msgid "Cordialement"
+msgstr "Cordially"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:178
+msgid "Merci, votre paiement s'est correctement effectu&eacute;!"
+msgstr "Thank you, your payment is successfully completed!"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:178
+msgid "Le syst&egrave;me vous a envoy&eacute; le lien de votre espace publicitaire &agrave; cette adresse Email"
+msgstr "The system has sent you a link to your space at this email address"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:186
+msgid "Une erreur est survenue lors de l'achat de l'espace de ventes."
+msgstr "An error occurred when purchasing advertising space."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:186
+msgid "Veuillez contacter"
+msgstr "Please contact"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:186
+msgid "l'administrateur de ce blog"
+msgstr "the administrator of this blog"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:186
+msgid "le service de Micro-paiement"
+msgstr "Micro-service payment"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:186
+msgid "le cr&eacute;ateur de ce service"
+msgstr "the creator of this service"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:186
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:34
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:106
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:115
+msgid "Retour &agrave; la page pr&eacute;c&eacute;dente"
+msgstr "Return to previous page"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:192
+msgid "Configurez votre espace publicitaire"
+msgstr "Configure your ad space"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:196
+msgid "Une erreur est survenue"
+msgstr "An error occurred"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_acheter.php:200
+msgid "Acheter un espace publicitaire sur ce blog"
+msgstr "Buy advertising space on this blog"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:31
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:88
+msgid "Espace de ventes"
+msgstr "Area sales"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:38
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:95
+msgid "URL de votre site"
+msgstr "URL of your site"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:39
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:43
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:96
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:100
+msgid "Visiter"
+msgstr "Visit"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:42
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:99
+msgid "URL de la banni&egrave;re"
+msgstr "Banner URL"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:49
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:106
+msgid "Vous pouvez h&eacute;berger votre banni&egrave;re sur ce blog si elle n'est pas sur votre serveur."
+msgstr "You can host your banner on this blog if not on your server."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:52
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:109
+msgid "Banni&egrave;re sur votre PC"
+msgstr "Banner on your PC"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:61
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:118
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:33
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:105
+msgid "Sauvegarder les modifications"
+msgstr "Save Changes"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:71
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:130
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:135
+msgid "Cette campagne n'existe pas"
+msgstr "This campaign doesn't exist"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:122
+msgid "Attention! Si votre banni&egrave;re ne respecte pas les dimensions de l'espace de ventes du blog, elle sera d&eacute;form&eacute; et s'affichera mal !"
+msgstr "Warning! If your banner does not meet the dimensions of the area of sales of the blog, it will appear distorted and evil !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:150
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:161
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:284
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:296
+msgid "Nombre d'affichage"
+msgstr "Number display"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:151
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:162
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:285
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:297
+msgid "Nombre de clic"
+msgstr "Number of clicks"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:152
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:163
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:286
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:298
+msgid "Date de cr&eacute;ation"
+msgstr "Creation date"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:178
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:313
+msgid "Vous n'avez pas encore de campagnes"
+msgstr "You do not have a campaign yet."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:178
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:313
+msgid "Ajoutez-en une"
+msgstr "Add one"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:196
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:334
+msgid "affichages"
+msgstr "displays"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:196
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:334
+msgid "affichage"
+msgstr "display"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:197
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:335
+msgid "clics"
+msgstr "clics"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:197
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:335
+msgid "clic"
+msgstr "clic"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:207
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:345
+msgid "Campagne expir&eacute;e"
+msgstr "Campaign expired"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:215
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:231
+msgid "Voulez-vous supprimer cette campagne (irr&eacute;versible) ?"
+msgstr "Do you want to delete this campaign (irreversible) ?"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:216
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:354
+msgid "Campagne non configur&eacute;e"
+msgstr "Campaign unconfigured"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:258
+msgid "Vos espaces de ventes achet&eacute;s"
+msgstr "Your space sales purchased"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:283
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:295
+msgid "Utilisateur"
+msgstr "User"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_campagnes.php:395
+msgid "Les ventes effectu&eacute;s sur ce blog"
+msgstr "Sales made on this blog"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:16
+msgid "Upload de banni&egrave;res"
+msgstr "Upload banners"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:17
+msgid "Autoriser l'upload des banni&egrave;res sur votre blog"
+msgstr "Allow upload banners on your blog"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:20
+msgid "N'oubliez pas de changer le CHMOD du r&eacute;pertoire <code>rantabiliweb-ads/upbans</code> en <code>0777</code>."
+msgstr "Remember to change the CHMOD of <code>rantabiliweb-ads/upbans</code> in <code>0777</code>."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:26
+msgid "Affichage du tarif"
+msgstr "Display Tariff"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:27
+msgid "Autoriser l'affichage du tarif dans la liste des espaces de ventes disponible"
+msgstr "Allow the display of the list price sales spaces available"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:57
+msgid "Les URL suivantes doivent &ecirc;tre utilis&eacute; pour cr&eacute;er le document n&eacute;cessaire &agrave; <strong>Rentabiliweb Ads</strong>"
+msgstr "The following URL should be used to create the documents necessary for <strong>Rentabiliweb Ads</strong>"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:57
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:32
+msgid "Cr&eacute;er un nouveau document"
+msgstr "Create a new document"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:61
+msgid "Url de la page d'acc&egrave;s"
+msgstr "Url of the access page"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:66
+msgid "Url de la page prot&eacute;g&eacute;e"
+msgstr "Url of the protected page"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:71
+msgid "Url de la page d'erreur"
+msgstr "Url of the error page"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:79
+msgid "Pour trouver le <strong>doc_id</strong> et <strong>site_id</strong>, vous devez avoir cr&eacute;&eacute; un document sur <a href=\"http://www.rentabiliweb.com/\" target=\"_blank\">Rentabiliweb.com</a>. Apr&egrave;s la cr&eacute;ation du document, allez sur la page du script de votre document et r&eacute;cup&eacute;rez seulement les num&eacute;ros de code <strong>doc_id</strong> et <strong>site_id</strong> puis collez-les &agrave; gauche sur cette page."
+msgstr "To find the <strong>doc_id</strong> and <strong>site_id</strong>, you must have created a document on <a href=\"http://www.rentabiliweb.com/\" target=\"_blank\">Rentabiliweb.com</a>. After creating the document, go to the page of the script in your document and retrieve only the code numbers <strong>doc_id</strong> and <strong>site_id</strong> and paste left on this page."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:88
+msgid "Vous pouvez aussi lire ce tutoriel sur l'installation compl&egrave;te de ce plugin."
+msgstr "You can also read this tutorial on the complete installation of this plugin."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_config.php:94
+msgid "Informations de Rentabiliweb Ads"
+msgstr "Information Rentabiliweb Ads"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:40
+msgid "ID du document"
+msgstr "Document ID"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:44
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:51
+msgid "Vous trouverez cet identifiant apr&egrave;s avoir cr&eacute;&eacute; le document de paiement sur Rentabiliweb.com"
+msgstr "You can find this ID after creating the document on payment Rentabiliweb.com"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:47
+msgid "ID du site"
+msgstr "Site ID"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:57
+msgid "Tarif au paiement"
+msgstr "Price to pay"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:61
+msgid "Vous trouverez ce tarif apr&egrave;s avoir cr&eacute;&eacute; le document de paiement sur Rentabiliweb.com"
+msgstr "You will find this price after creating the document on payment Rentabiliweb.com"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:67
+msgid "Nom de cet espace"
+msgstr "Name space"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:71
+msgid "Le nom de l'espace est un peu comme une mini-description."
+msgstr "The name of the space is like a mini-description."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:74
+msgid "Dur&eacute;e de l'affichage"
+msgstr "Duration of posting"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:78
+msgid "Dur&eacute;e d'affichage des banni&egrave;res dans l'espace."
+msgstr "Banner display time in space."
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:84
+msgid "Taille pr&eacute;d&eacute;finie"
+msgstr "Preset Size"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:86
+msgid "Classique"
+msgstr "Classic"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:86
+msgid "M&eacute;ga Banni&egrave;re"
+msgstr "Mega Banner"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:86
+msgid "Pav&eacute;"
+msgstr "Pavement"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:86
+msgid "Carr&eacute;"
+msgstr "Square"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:86
+msgid "Skyscraper"
+msgstr "Skyscraper"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:86
+msgid "Personnalis&eacute;"
+msgstr "Custom"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:90
+msgid "Taille en largueur"
+msgstr "Waist width"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:92
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:98
+msgid "pixels"
+msgstr "pixels"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:96
+msgid "Taille en longueur"
+msgstr "Waist length"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:114
+msgid "Cet espace n'est pas disponible !"
+msgstr "This space is not available!"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:126
+msgid "Ajouter un nouvel espace"
+msgstr "Add a new space"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:137
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:149
+msgid "Int&eacute;grer l'espace &agrave; votre th&egrave;me"
+msgstr "Incorporate space for your theme"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:188
+msgid "Modifier"
+msgstr "Edit"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:188
+msgid "Supprimer"
+msgstr "Delete"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:208
+msgid "<p>Les espaces de ventes sont des espaces o&ugrave; vos lecteurs vont pouvoir payer pour ajouter leur banni&egrave;re.<br />Ils devront renouveller le paiement autant de fois qu'ils veulent ajouter de banni&egrave;re.</p>"
+msgstr "<p>The sales areas are areas where your readers will be able to pay to add their banner.<br />They must renew the payment as often as they want to add banner.</p>"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:209
+msgid "<p>Sur cette page, vous pouvez <strong>ajouter</strong>, <strong>modifier</strong>, <strong>supprimer</strong>, des espaces de ventes.</p>"
+msgstr "<p>On this page you can <strong>add</strong>, <strong>edit</strong>, <strong>delete</strong>, spaces for sale.</p>"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/rentabads_espace_ventes.php:218
+msgid "Vos espaces de ventes"
+msgstr "Your space sales"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:7
+msgid "Vous devez &ecirc;tre connect&eacute; !"
+msgstr "You must be logged in !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:26
+msgid "Rentabiliweb Ads a correctement &eacute;t&eacute; modifi&eacute; !"
+msgstr "Rentabiliweb Ads was successfully changed !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:46
+msgid "L'espace de ventes a &eacute;t&eacute; supprim&eacute; !"
+msgstr "The sales area was removed !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:70
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:92
+msgid "La campagne a &eacute;t&eacute; supprim&eacute; !"
+msgstr "The campaign was deleted !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:121
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:193
+msgid "Le fichier d&eacute;passe la limite autoris&eacute;e par le serveur !"
+msgstr "The file exceeds the limit allowed by the server !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:125
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:197
+msgid "Le fichier d&eacute;passe la limite autoris&eacute;e dans le formulaire HTML !"
+msgstr "The file exceeds the limit allowed in the HTML form !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:129
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:201
+msgid "L'envoi du fichier a &eacute;t&eacute; interrompu pendant le transfert !"
+msgstr "Sending the file has been interrupted during the transfer !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:133
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:205
+msgid "Le fichier que vous avez envoy&eacute; a une taille nulle !"
+msgstr "The file you sent has a size zero !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:143
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:215
+msgid "Veuillez s&eacute;lectionner un type d'image diff&eacute;rent !"
+msgstr "Please select a different image type !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:164
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:236
+msgid "La campagne a &eacute;t&eacute; &eacute;dit&eacute; !"
+msgstr "The campaign has been published !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:256
+msgid "L'espace de ventes a &eacute;t&eacute; &eacute;dit&eacute; !"
+msgstr "The sales area has been published !"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:266
+msgid "Nouvel espace de ventes"
+msgstr "New space for sale"
+
+#: C:\Program
+#: Files
+#: (x86)\EasyPHP-5.3.5.0\www\labo_wordpress\wp-content\plugins\rentabiliweb-ads/traitement.php:268
+msgid "L'espace de ventes a &eacute;t&eacute; ajout&eacute; !"
+msgstr "The sales area has been added !"
+
+#~ msgid "Espace de vente"
+#~ msgstr "Retail space"
+
+#, fuzzy
+#~ msgid "Voici le rsum de votre espace publicitaire"
+#~ msgstr "Here's a reminder of your ad space"
+
+#~ msgid "Ventes effectu&eacute;s sur votre blog"
+#~ msgstr "Sales made ​​in your blog"
+
+#~ msgid "Campagnes vendues"
+#~ msgstr "Campaigns sold"
+
+#~ msgid "Vos campagnes publicitaires achet&eacute;s"
+#~ msgstr "Your advertising purchased"
+
+#~ msgid "Vos campagnes"
+#~ msgstr "Your campaigns"
+
+#~ msgid "Aide & tutoriel"
+#~ msgstr "Help & tutorial"
+
+#~ msgid "La page que vous tentez d'ouvrir est incorrecte !"
+#~ msgstr "The page you are attempting to open is wrong !"
+
+#~ msgid "Format de votre banni&egrave;re"
+#~ msgstr "Format your banner"
+
+#~ msgid ""
+#~ "Pour ajouter votre banni&egrave;re sur ce blog, vous devez voir si un "
+#~ "espace publicitaire vous convient et dans ce cas,<br />vous devrez "
+#~ "utiliser le syst&egrave;me de micro-paiement ci-dessous. La configuration "
+#~ "de votre publicit&eacute; se fera apr&egrave;s le paiement."
+#~ msgstr ""
+#~ "To add your banner on this blog, if you see an ad for you and in this "
+#~ "case,<br />you must use the micro-payment system below. The configuration "
+#~ "of your advertising will be done after payment."
+
+#~ msgid ""
+#~ "Veuillez contacter l'administrateur de ce blog<br />ou le service de "
+#~ "Micro-paiement"
+#~ msgstr ""
+#~ "Please contact the administrator of this blog<br />or service "
+#~ "Micropayments"
+
+#~ msgid "Espace publicitaire du blog"
+#~ msgstr "Ad blog"
+
+#~ msgid "Vous n'avez pas encore de campagnes."
+#~ msgstr "You do not have a campaign yet."
